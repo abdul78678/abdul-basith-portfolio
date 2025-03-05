@@ -22,7 +22,7 @@ Aspiring Data Analyst skilled in SQL, Power BI, MS Excel, and Python. Passionate
   - Identified the most popular restaurant types based on customer votes.  
   - Created a heatmap to analyze online ordering trends.  
 
-🔗 [View Project on GitHub] 
+🔗 [View Project on GitHub](#)
 
 ### 📌 2️⃣ Air Quality Monitoring using IoT  
 - Goal: Developed an IoT-based system for real-time air quality monitoring.  
