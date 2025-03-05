@@ -19,14 +19,14 @@ Aspiring Data Analyst skilled in SQL, Power BI, MS Excel, and Python. Passionate
 - Goal:Analyze restaurant ratings, pricing, and online ordering trends.  
 - **Tools Used: Python (Pandas, Matplotlib, Seaborn)  
 - Key Insights:
-  - Identified the most popular restaurant types** based on customer votes.  
+  - Identified the most popular restaurant types based on customer votes.  
   - Created a heatmap to analyze online ordering trends.  
 
 🔗 [View Project on GitHub](#) (Upload your project files in this repo and link it here)  
 
 ### 📌 2️⃣ Air Quality Monitoring using IoT  
 - Goal: Developed an IoT-based system for real-time air quality monitoring.  
-- **Tools Used:** Embedded Systems, Data Analytics, Python  
+- **Tools Used:Embedded Systems, Data Analytics, Python  
 - Key Insights: 
   - Designed a system to track pollution levels and generate alerts.  
 
