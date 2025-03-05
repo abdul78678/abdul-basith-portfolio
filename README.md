@@ -17,7 +17,7 @@ Aspiring Data Analyst skilled in SQL, Power BI, MS Excel, and Python. Passionate
 
 ### 📌 1️⃣ Zomato Data Analysis  
 - Goal:Analyze restaurant ratings, pricing, and online ordering trends.  
-- **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
+- **Tools Used: Python (Pandas, Matplotlib, Seaborn)  
 - Key Insights:
   - Identified the most popular restaurant types** based on customer votes.  
   - Created a heatmap to analyze online ordering trends.  
@@ -28,7 +28,7 @@ Aspiring Data Analyst skilled in SQL, Power BI, MS Excel, and Python. Passionate
 - Goal: Developed an IoT-based system for real-time air quality monitoring.  
 - **Tools Used:** Embedded Systems, Data Analytics, Python  
 - Key Insights: 
-  - Designed a system to **track pollution levels and generate alerts.  
+  - Designed a system to track pollution levels and generate alerts.  
 
 ## 📜 Certifications  
 - Microsoft Excel – Udemy
